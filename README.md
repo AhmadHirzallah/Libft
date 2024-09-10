@@ -1,30 +1,32 @@
-Libft
-Description
-My implementation of key functions from the C standard library, created as part of the 42 school curriculum. This project includes the mandatory functions and additional bonus functionalities, giving a score of 125/100 with bonus features.
+<p align="center">
+   <img src="https://github.com/AhmadHirzallah/Libft/blob/main/banner.png">
+</p>
 
-Features
-C Standard Library Functions: Reimplementation of essential functions, such as ft_memset, ft_bzero, ft_strlen, ft_strdup, and many more.
-Bonus Functions: Includes additional functions for linked list manipulation (e.g., ft_lstnew_bonus, ft_lstadd_front_bonus).
-Performance: Achieved 125/100 with bonus points.
-Project Structure
-Source Files
-The project contains the following source files:
+<p align="center">
+	<img src="https://img.shields.io/badge/Libft-125%2F100-brightgreen?style=flat-square"/>
+	<img src="https://img.shields.io/github/last-commit/AhmadHirzallah/Libft?style=flat-square&color=blue"/>
+	<img src="https://img.shields.io/badge/language-C-blue.svg?style=flat-square"/>
+</p>
 
-Memory Functions:
-ft_memset.c, ft_bzero.c, ft_memcpy.c, ft_memmove.c, ft_memchr.c, ft_memcmp.c
+<p align="center">
+	<a href="#overview">Overview</a> •
+	<a href="#features">Features</a> •
+	<a href="#installation">Installation</a> •
+	<a href="#usage">Usage</a> •
+	<a href="#license">License</a>
+</p>
 
-String Functions:
-ft_strlen.c, ft_strdup.c, ft_strchr.c, ft_strrchr.c, ft_strncmp.c, ft_strlcpy.c, ft_strlcat.c, ft_strnstr.c, ft_itoa.c, ft_substr.c, ft_strjoin.c, ft_strtrim.c, ft_split.c, ft_strmapi.c, ft_striteri.c
+## Overview
+The Libft project is part of the 42 school curriculum, where we recreate essential C standard library functions and some additional ones to understand the implementation deeply and to use these functions in upcoming projects.
 
-Character Functions:
-ft_isalpha.c, ft_isdigit.c, ft_isalnum.c, ft_isascii.c, ft_isprint.c, ft_toupper.c, ft_tolower.c
+## Features
+- **C Standard Library Functions**: Functions like `ft_memset`, `ft_bzero`, and `ft_strlen`.
+- **Additional Functions**: Functions such as `ft_substr`, `ft_strjoin`, `ft_split`, and `ft_itoa`.
+- **Linked List Management**: Functions for linked list operations such as `ft_lstnew`, `ft_lstadd_front`, etc.
 
-File Descriptor Functions:
-ft_putchar_fd.c, ft_putstr_fd.c, ft_putendl_fd.c, ft_putnbr_fd.c
-
-Bonus Files
-Bonus functions for linked lists:
-
-Linked List Functions:
-ft_lstnew_bonus.c, ft_lstadd_front_bonus.c, ft_lstsize_bonus.c, ft_lstlast_bonus.c, ft_lstadd_back_bonus.c, ft_lstdelone_bonus.c, ft_lstclear_bonus.c, ft_lstiter_bonus.c, ft_lstmap_bonus.c
+## Installation
+```bash
+git clone https://github.com/AhmadHirzallah/Libft.git
+cd Libft
+make
 
