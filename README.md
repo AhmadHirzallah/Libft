@@ -8,21 +8,8 @@
 	<img src="https://img.shields.io/badge/language-C-blue.svg?style=flat-square"/>
 </p>
 
-<p align="center">
-	<a href="#overview">Overview</a> •
-	<a href="#features">Features</a> •
 	<a href="#installation">Installation</a> •
-	<a href="#usage">Usage</a> •
-	<a href="#license">License</a>
 </p>
-
-## Overview
-The Libft project is part of the 42 school curriculum, where we recreate essential C standard library functions and some additional ones to understand the implementation deeply and to use these functions in upcoming projects.
-
-## Features
-- **C Standard Library Functions**: Functions like `ft_memset`, `ft_bzero`, and `ft_strlen`.
-- **Additional Functions**: Functions such as `ft_substr`, `ft_strjoin`, `ft_split`, and `ft_itoa`.
-- **Linked List Management**: Functions for linked list operations such as `ft_lstnew`, `ft_lstadd_front`, etc.
 
 ## Installation
 ```bash
