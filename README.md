@@ -6,6 +6,8 @@
 	<img src="https://img.shields.io/badge/Libft-125%2F100-brightgreen?style=flat-square"/>
 	<img src="https://img.shields.io/github/last-commit/AhmadHirzallah/Libft?style=flat-square&color=blue"/>
 	<img src="https://img.shields.io/badge/language-C-blue.svg?style=flat-square"/>
+</p>
+
 ## Overview
 The Libft project is part of the 42 school curriculum, where we recreate essential C standard library functions and some additional ones to understand the implementation deeply and to use these functions in upcoming projects.
 
